@@ -1,4 +1,4 @@
-## The name of an affected Product : Ditto_UMPDC_Poc
+## The name of an affected Product : Ditto
 
 ## Affected Version : 3.24.238.0(Latest)
 
