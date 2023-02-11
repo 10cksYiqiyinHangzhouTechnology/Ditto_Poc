@@ -1,4 +1,4 @@
-## The name of an affected Product : PDFStreamDumper
+## The name of an affected Product : Ditto_Poc
 
 ## Affected Version : 3.24.238.0(Latest)
 
